@@ -178,7 +178,7 @@
                               </label>
                               <input
                                     class="field-input"
-                                    type="text"
+                                    type="password"
                                     id="RequestVerificationToken"
                                     name="RequestVerificationToken"
                                     placeholder="Cole o token aqui"
@@ -192,7 +192,7 @@
                               </label>
                               <input
                                     class="field-input"
-                                    type="text"
+                                    type="password"
                                     id="ASPNET_SessionId"
                                     name="ASPNET_SessionId"
                                     placeholder="Cole o session ID aqui"
@@ -206,7 +206,7 @@
                               </label>
                               <input
                                     class="field-input"
-                                    type="text"
+                                    type="password"
                                     id="ASPXAUTH"
                                     name="ASPXAUTH"
                                     placeholder="Cole o token de autenticação aqui"
