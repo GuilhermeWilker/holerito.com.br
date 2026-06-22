@@ -3,6 +3,7 @@
     "autoload": {
         "psr-4": {
             "Holerito\\": "app/",
+            "Holerito\\infrastructure\\": "app/infrastructure/",
             "Infraestructure\\": "app/infraestructure/"
         }
     },
